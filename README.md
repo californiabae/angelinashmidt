@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=angelinashmidt&show_icons=true&theme=catppuccin_mocha&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
