@@ -8,6 +8,12 @@
   <img src="[https://i.pinimg.com/originals/6e/17/71/6e17717f9a0f8c4d43b4e0c0b7d8c2c5.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF1MDl6eWQyaWxpbGtwdmNuYm5wY252cTNkdzA1Zm0xd2QwODMwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif)" width="500"/>
 </p>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF0aHRsa3JzYXQ3eGtwbGQ5YWhobDQ2c3QybGR5ZzU4amZhZTdvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" width="100%">
+   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ---
 
 ## 🌙 About Me
