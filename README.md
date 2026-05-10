@@ -1,4 +1,4 @@
-# ʚ Angelina ɞ
+<h1 align="center"> ʚ Angelina ɞ</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=f5c2e7&size=26&center=true&vCenter=true&width=700&lines=Beginner+Developer;Cozy+Gaming+Girl;Learning+GitHub+and+Frontend;Future+IT+Girl+✨" />
@@ -57,9 +57,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=angelinashmidt&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+<p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=californiabae&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=catppuccin_mocha&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=californiabae&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+</p>
 
 ---
 
