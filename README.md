@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=californiabae&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+    <img height="170" src="https://tenor.com/ru/view/game-time-gamer-gaming-shopping-movies-gif-14799468?username=californiabae&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
